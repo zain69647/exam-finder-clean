@@ -1,0 +1,4152 @@
+[
+  {
+    "subject": "Positive Psychology (Revised)",
+    "code": "APSY-481",
+    "page": 1
+  },
+  {
+    "subject": "Peace Psychology (Revised)",
+    "code": "APSY-482",
+    "page": 2
+  },
+  {
+    "subject": "Clinical Psychology-ll",
+    "code": "APSY-483",
+    "page": 3
+  },
+  {
+    "subject": "Arabic-Vlll",
+    "code": "ARB-402",
+    "page": 4
+  },
+  {
+    "subject": "Statistics (Advanced)",
+    "code": "BBA-410",
+    "page": 5
+  },
+  {
+    "subject": "E-Commerce",
+    "code": "BBA-411",
+    "page": 6
+  },
+  {
+    "subject": "Financial Institutions & Services",
+    "code": "BBA-412",
+    "page": 7
+  },
+  {
+    "subject": "Financial Management (Advanced)",
+    "code": "BBA-413",
+    "page": 8
+  },
+  {
+    "subject": "Taxation Management (Advanced)",
+    "code": "BBA-414",
+    "page": 10
+  },
+  {
+    "subject": "Advertising",
+    "code": "BBA-415",
+    "page": 12
+  },
+  {
+    "subject": "Consumer Behaviour",
+    "code": "BBA-416",
+    "page": 13
+  },
+  {
+    "subject": "Labour Laws in Pakistan",
+    "code": "BBA-417",
+    "page": 14
+  },
+  {
+    "subject": "Human Resource Development",
+    "code": "BBA-418",
+    "page": 15
+  },
+  {
+    "subject": "Microbes, Man and the Environment",
+    "code": "BOT-409",
+    "page": 16
+  },
+  {
+    "subject": "Molecular Genetics",
+    "code": "BOT-410A",
+    "page": 17
+  },
+  {
+    "subject": "Water Pollution, its Management and Control",
+    "code": "BOT-411",
+    "page": 18
+  },
+  {
+    "subject": "Plant Pathology",
+    "code": "BOT-412A",
+    "page": 19
+  },
+  {
+    "subject": "Challenges of a Changing Earth",
+    "code": "BOT-413",
+    "page": 20
+  },
+  {
+    "subject": "Plant Nutrition and Soil Fertility",
+    "code": "BOT-414A",
+    "page": 21
+  },
+  {
+    "subject": "Microbiology",
+    "code": "BOT-415",
+    "page": 22
+  },
+  {
+    "subject": "Advances in Plant Physiology",
+    "code": "BOT-416A",
+    "page": 23
+  },
+  {
+    "subject": "Bioremediation",
+    "code": "BOT-SP-02",
+    "page": 24
+  },
+  {
+    "subject": "Plant Breeding and Horticulture",
+    "code": "BOT-SP-04",
+    "page": 25
+  },
+  {
+    "subject": "Soil and Agricultural Microbiology",
+    "code": "BOT-SP-07",
+    "page": 26
+  },
+  {
+    "subject": "Water Logging and Salinity",
+    "code": "BOT-SP-08",
+    "page": 27
+  },
+  {
+    "subject": "Agriculture and Environmental Pollution \u00a9",
+    "code": "BOT-SP-14",
+    "page": 28
+  },
+  {
+    "subject": "Advances in Molecular Genetics",
+    "code": "BOT-SP-15",
+    "page": 29
+  },
+  {
+    "subject": "Biohazards, Biosafety, Bioethics",
+    "code": "BOT-SP-16",
+    "page": 30
+  },
+  {
+    "subject": "Gene Cloning",
+    "code": "BOT-SP-23",
+    "page": 31
+  },
+  {
+    "subject": "Modern Arabic Poetry",
+    "code": "BSAR-407",
+    "page": 32
+  },
+  {
+    "subject": "History of Arabic Literature-ll",
+    "code": "BSAR-408",
+    "page": 33
+  },
+  {
+    "subject": "Translation",
+    "code": "BSAR-409A",
+    "page": 34
+  },
+  {
+    "subject": "Introduction to Linguistics",
+    "code": "BSAR-409E",
+    "page": 35
+  },
+  {
+    "subject": "Media Management and Marketing",
+    "code": "BSCS-413",
+    "page": 36
+  },
+  {
+    "subject": "Specialized Journalism",
+    "code": "BSCS-414-E",
+    "page": 37
+  },
+  {
+    "subject": "Specialized Journalism",
+    "code": "BSCS-414",
+    "page": 38
+  },
+  {
+    "subject": "Specialized Journalism",
+    "code": "BSCS-414-B",
+    "page": 39
+  },
+  {
+    "subject": "Radio Program Production",
+    "code": "BSCS-417",
+    "page": 40
+  },
+  {
+    "subject": "TV Program Production",
+    "code": "BSCS-418",
+    "page": 41
+  },
+  {
+    "subject": "Advertising-Il",
+    "code": "BSCS-419",
+    "page": 42
+  },
+  {
+    "subject": "Public Relations-Il",
+    "code": "BSCS-421",
+    "page": 43
+  },
+  {
+    "subject": "Environmental Chemistry",
+    "code": "CHEM-402",
+    "page": 44
+  },
+  {
+    "subject": "Physical Chemistry (Sp. Theory-l)",
+    "code": "CHEM-422",
+    "page": 45
+  },
+  {
+    "subject": "Physical Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-423",
+    "page": 46
+  },
+  {
+    "subject": "Inorganic Chemistry (Sp. Theory-l)",
+    "code": "CHEM-425",
+    "page": 47
+  },
+  {
+    "subject": "Inorganic Chemistry (Sp. Theory -II)",
+    "code": "CHEM-426",
+    "page": 48
+  },
+  {
+    "subject": "Organic Chemistry (Sp. Theory-l)",
+    "code": "CHEM-428",
+    "page": 49
+  },
+  {
+    "subject": "Organic Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-429",
+    "page": 50
+  },
+  {
+    "subject": "Analytical Chemistry (Sp. Theory-l)",
+    "code": "CHEM-431",
+    "page": 51
+  },
+  {
+    "subject": "Analytical Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-432",
+    "page": 52
+  },
+  {
+    "subject": "Applied Chemistry (Sp. Theory-l)",
+    "code": "CHEM-434",
+    "page": 53
+  },
+  {
+    "subject": "Applied Chemistry (Sp. Theory-Il)",
+    "code": "CHEM-435",
+    "page": 54
+  },
+  {
+    "subject": "Bio Chemistry (Sp. Theory-l)",
+    "code": "CHEM-437",
+    "page": 55
+  },
+  {
+    "subject": "Bio Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-438",
+    "page": 56
+  },
+  {
+    "subject": "E-Commerce",
+    "code": "COMM-409",
+    "page": 57
+  },
+  {
+    "subject": "International Business & Finance",
+    "code": "COMM-410",
+    "page": 58
+  },
+  {
+    "subject": "Operation & Production Management",
+    "code": "COMM-411",
+    "page": 59
+  },
+  {
+    "subject": "Performance Management",
+    "code": "COMM-412",
+    "page": 60
+  },
+  {
+    "subject": "Strategic Management",
+    "code": "COMM-413",
+    "page": 62
+  },
+  {
+    "subject": "Investment Analysis & Management (Finance Specialization)",
+    "code": "COMM-414",
+    "page": 63
+  },
+  {
+    "subject": "International Marketing (Marketing Specialization)",
+    "code": "COMM-415",
+    "page": 64
+  },
+  {
+    "subject": "Virtual Systems & Services",
+    "code": "DI-421",
+    "page": 65
+  },
+  {
+    "subject": "Comparative Economic System",
+    "code": "ECON-312",
+    "page": 66
+  },
+  {
+    "subject": "Development Policy",
+    "code": "ECON-313",
+    "page": 67
+  },
+  {
+    "subject": "Agricultural Economics",
+    "code": "ECON-315",
+    "page": 68
+  },
+  {
+    "subject": "Labor Economics",
+    "code": "ECON-326",
+    "page": 69
+  },
+  {
+    "subject": "Comparative Economic System",
+    "code": "ECON-327",
+    "page": 70
+  },
+  {
+    "subject": "Managerial Economics",
+    "code": "ECON-328",
+    "page": 71
+  },
+  {
+    "subject": "Agricultural Economics",
+    "code": "ECON-330",
+    "page": 72
+  },
+  {
+    "subject": "Money, Banking & Financial Institutions |",
+    "code": "ECON-332",
+    "page": 74
+  },
+  {
+    "subject": "Population Economics",
+    "code": "ECON-334",
+    "page": 75
+  },
+  {
+    "subject": "International Trade",
+    "code": "ECON-404",
+    "page": 76
+  },
+  {
+    "subject": "Project Appraisal and Investment Analysis",
+    "code": "ECON-409",
+    "page": 77
+  },
+  {
+    "subject": "Environmental and Natural Resource Economics",
+    "code": "ECON-410",
+    "page": 78
+  },
+  {
+    "subject": "Growth Theories and Models",
+    "code": "ECON-420",
+    "page": 80
+  },
+  {
+    "subject": "Applied Economics",
+    "code": "ECON-423",
+    "page": 81
+  },
+  {
+    "subject": "International Trade",
+    "code": "ECON-424",
+    "page": 82
+  },
+  {
+    "subject": "Institutional Economics",
+    "code": "ECON-425",
+    "page": 83
+  },
+  {
+    "subject": "Environmental and Natural Resource Economics",
+    "code": "ECON-427",
+    "page": 84
+  },
+  {
+    "subject": "International Finance",
+    "code": "ECON-429",
+    "page": 85
+  },
+  {
+    "subject": "Regional Economics",
+    "code": "ECON-432",
+    "page": 86
+  },
+  {
+    "subject": "Poverty and Income Distribution",
+    "code": "ECON-433",
+    "page": 87
+  },
+  {
+    "subject": "Islamic Banking Finance",
+    "code": "ECON-435",
+    "page": 88
+  },
+  {
+    "subject": "General Equilibrium and Welfare Economics",
+    "code": "ECON-437",
+    "page": 89
+  },
+  {
+    "subject": "Health Economics",
+    "code": "ECON-439",
+    "page": 90
+  },
+  {
+    "subject": "Comparative Education",
+    "code": "ED-324",
+    "page": 91
+  },
+  {
+    "subject": "History \u2014 IV",
+    "code": "EDE-162",
+    "page": 92
+  },
+  {
+    "subject": "Political Science IV",
+    "code": "EDE-166",
+    "page": 93
+  },
+  {
+    "subject": "Urdu - IV",
+    "code": "EDE-174",
+    "page": 94
+  },
+  {
+    "subject": "Islamic Studies-IV",
+    "code": "EDE-178",
+    "page": 95
+  },
+  {
+    "subject": "Computer Studies IV",
+    "code": "EDE-186",
+    "page": 96
+  },
+  {
+    "subject": "Educational Guide. & Counseling in Elementary Schools",
+    "code": "EDE-325",
+    "page": 97
+  },
+  {
+    "subject": "Software Quality Assurance",
+    "code": "E",
+    "page": 98
+  },
+  {
+    "subject": "Continental Literature",
+    "code": "ENG-406",
+    "page": 99
+  },
+  {
+    "subject": "Pakistani Literature",
+    "code": "ENG-407",
+    "page": 100
+  },
+  {
+    "subject": "Teaching of Literature",
+    "code": "ENG-408",
+    "page": 101
+  },
+  {
+    "subject": "Language in Education",
+    "code": "ENG-416",
+    "page": 102
+  },
+  {
+    "subject": "Multilingualism",
+    "code": "ENG-418",
+    "page": 103
+  },
+  {
+    "subject": "Applied Fisheries",
+    "code": "ES-11",
+    "page": 104
+  },
+  {
+    "subject": "Applied Microbiology",
+    "code": "ES-13",
+    "page": 105
+  },
+  {
+    "subject": "Mammalogy",
+    "code": "ES-97",
+    "page": 106
+  },
+  {
+    "subject": "Bible for Christian / Geeta for Hindu",
+    "code": "ET-004",
+    "page": 107
+  },
+  {
+    "subject": "Professional Practices",
+    "code": "GE-166",
+    "page": 109
+  },
+  {
+    "subject": "Technical and Business Writing",
+    "code": "GE-261",
+    "page": 110
+  },
+  {
+    "subject": "Digital Cartography",
+    "code": "GEOG-402",
+    "page": 111
+  },
+  {
+    "subject": "Natural Hazards and Disaster Management",
+    "code": "GEOG-406",
+    "page": 112
+  },
+  {
+    "subject": "Urban Ecology",
+    "code": "GEOG-417",
+    "page": 113
+  },
+  {
+    "subject": "Modern Middle East (1919-2000)",
+    "code": "HIS-405",
+    "page": 114
+  },
+  {
+    "subject": "Muslim Contribution to Arts, Science and Architecture",
+    "code": "HIS-406",
+    "page": 115
+  },
+  {
+    "subject": "Pakistan's Economy - An Historical Survey",
+    "code": "HIS-407",
+    "page": 116
+  },
+  {
+    "subject": "Pakistani Society and Culture",
+    "code": "HIS-408",
+    "page": 117
+  },
+  {
+    "subject": "History of England (1688 \u2014 1919)",
+    "code": "HIS-409",
+    "page": 118
+  },
+  {
+    "subject": "Sports Medicine (Major 8)",
+    "code": "HPE-411",
+    "page": 119
+  },
+  {
+    "subject": "Curriculum Development in Physical Education (Major 9)",
+    "code": "HPE-412",
+    "page": 120
+  },
+  {
+    "subject": "Adopted Physical Education (Major 10)",
+    "code": "HPE-413",
+    "page": 121
+  },
+  {
+    "subject": "Translation of Holy Quran",
+    "code": "HQ-008",
+    "page": 122
+  },
+  {
+    "subject": "Sciences of Quran",
+    "code": "ISE-405",
+    "page": 124
+  },
+  {
+    "subject": "Figh-lll",
+    "code": "ISE-406",
+    "page": 125
+  },
+  {
+    "subject": "Comparative Study of Religions-ll",
+    "code": "ISE-407",
+    "page": 126
+  },
+  {
+    "subject": "Islamic Economics-ll",
+    "code": "ISE-408",
+    "page": 127
+  },
+  {
+    "subject": "Network Security",
+    "code": "IT-406",
+    "page": 128
+  },
+  {
+    "subject": "Software Quality Assurance",
+    "code": "IT-407",
+    "page": 129
+  },
+  {
+    "subject": "Introduction to Economics",
+    "code": "IT-408",
+    "page": 130
+  },
+  {
+    "subject": "Measure Theory and Lebesgue Integration",
+    "code": "MATH-416",
+    "page": 131
+  },
+  {
+    "subject": "Methods of Mathematical Physics",
+    "code": "MATH-417",
+    "page": 132
+  },
+  {
+    "subject": "Numerical Analysis-Il",
+    "code": "MATH-418",
+    "page": 133
+  },
+  {
+    "subject": "Mathematical Statistics-lIl",
+    "code": "MATH-419",
+    "page": 134
+  },
+  {
+    "subject": "Computer Applications",
+    "code": "MATH-421",
+    "page": 135
+  },
+  {
+    "subject": "Group Theory-lll",
+    "code": "MATH-422",
+    "page": 136
+  },
+  {
+    "subject": "Theory of Modules",
+    "code": "MATH-423",
+    "page": 137
+  },
+  {
+    "subject": "Number Theory-ll",
+    "code": "MATH-424",
+    "page": 138
+  },
+  {
+    "subject": "Operations Research-ll",
+    "code": "MATH-428",
+    "page": 139
+  },
+  {
+    "subject": "Theory of Approximation and Splines-Il",
+    "code": "MATH-429",
+    "page": 140
+  },
+  {
+    "subject": "Fluid Mechanics-Il",
+    "code": "MATH-431",
+    "page": 141
+  },
+  {
+    "subject": "Classical Electrodynamics-ll",
+    "code": "PHY-423",
+    "page": 142
+  },
+  {
+    "subject": "Nuclear Physics-ll",
+    "code": "PHY-424",
+    "page": 143
+  },
+  {
+    "subject": "Solid State Physics-lll",
+    "code": "PHY-439",
+    "page": 144
+  },
+  {
+    "subject": "Solid State Physics-IV",
+    "code": "PHY-440",
+    "page": 145
+  },
+  {
+    "subject": "Relativity and Cosmology",
+    "code": "PHYS-4102",
+    "page": 146
+  },
+  {
+    "subject": "Astrophysics",
+    "code": "PHYS-4103",
+    "page": 147
+  },
+  {
+    "subject": "Classical Electrodynamics-ll",
+    "code": "PHYS-4202",
+    "page": 148
+  },
+  {
+    "subject": "Nuclear Physics-ll",
+    "code": "PHYS-4304",
+    "page": 149
+  },
+  {
+    "subject": "Nuclear Physics \u2014 II",
+    "code": "PHYS-4304",
+    "page": 150
+  },
+  {
+    "subject": "Introductory Particle Physics",
+    "code": "PHYS-4305",
+    "page": 151
+  },
+  {
+    "subject": "Quantum Information Theory",
+    "code": "PHYS-4308",
+    "page": 152
+  },
+  {
+    "subject": "Nanomaterial and Nanodevices",
+    "code": "PHYS-4311",
+    "page": 153
+  },
+  {
+    "subject": "Advanced Digital Electronics",
+    "code": "PHYS-4312",
+    "page": 154
+  },
+  {
+    "subject": "Solid State Physics - Ill",
+    "code": "PHYS-4404",
+    "page": 155
+  },
+  {
+    "subject": "Topics in Solid State Physics",
+    "code": "PHYS-4405",
+    "page": 156
+  },
+  {
+    "subject": "Advanced Solid State Physics",
+    "code": "PHYS-4406",
+    "page": 157
+  },
+  {
+    "subject": "Medical Physics",
+    "code": "PHYS-4607",
+    "page": 158
+  },
+  {
+    "subject": "Local Government in Pakistan",
+    "code": "POL-407",
+    "page": 159
+  },
+  {
+    "subject": "Public International Law-ll",
+    "code": "POL-408",
+    "page": 160
+  },
+  {
+    "subject": "International Organizations",
+    "code": "POL-409",
+    "page": 161
+  },
+  {
+    "subject": "Regional Organizations",
+    "code": "POL-410",
+    "page": 163
+  },
+  {
+    "subject": "Political Ideologies",
+    "code": "POL-411",
+    "page": 164
+  },
+  {
+    "subject": "Social Transformation",
+    "code": "SOC-406",
+    "page": 165
+  },
+  {
+    "subject": "Clinical Sociology",
+    "code": "SOC-407",
+    "page": 166
+  },
+  {
+    "subject": "Governance & Social Policy",
+    "code": "SOC-408",
+    "page": 167
+  },
+  {
+    "subject": "Statistical Inference-Il (Theory)",
+    "code": "STAT-407",
+    "page": 168
+  },
+  {
+    "subject": "Applied Econometrics (Theory)",
+    "code": "STAT-409",
+    "page": 169
+  },
+  {
+    "subject": "Time Series Analysis-ll",
+    "code": "STAT-413",
+    "page": 170
+  },
+  {
+    "subject": "Multivariate Analysis",
+    "code": "STAT-414",
+    "page": 171
+  },
+  {
+    "subject": "Total Quality Management",
+    "code": "STAT-415",
+    "page": 172
+  },
+  {
+    "subject": "Social Service",
+    "code": "UE-371",
+    "page": 173
+  },
+  {
+    "subject": "Naaya Tanqidi Mubahas",
+    "code": "URDU-406",
+    "page": 174
+  },
+  {
+    "subject": "Iqbal ka Khasoosi Mutalia (fiqri o funny mutalia aur tashery maton)",
+    "code": "URDU-407",
+    "page": 175
+  },
+  {
+    "subject": "Urdu Nasar Kay Asaliyab: Maza Safar Nama Aap Biyti",
+    "code": "URDU-408",
+    "page": 176
+  },
+  {
+    "subject": "Urdu Adab ki Tawarikh ka Mutiala",
+    "code": "URDU-411",
+    "page": 177
+  },
+  {
+    "subject": "Urdu Adab ka Mabed no Aabedyati Mutaila",
+    "code": "URDU-412",
+    "page": 178
+  },
+  {
+    "subject": "Bioinformatics",
+    "code": "ZOOL-405A",
+    "page": 179
+  },
+  {
+    "subject": "Biological Techniques",
+    "code": "ZOOL-407",
+    "page": 180
+  },
+  {
+    "subject": "Zoogeography",
+    "code": "ZOOL-409",
+    "page": 181
+  },
+  {
+    "subject": "Zoogeography & Paleontology",
+    "code": "ZOOL-409",
+    "page": 182
+  },
+  {
+    "subject": "Classification of Insects",
+    "code": "ZOOL-427",
+    "page": 183
+  },
+  {
+    "subject": "Bacteriology",
+    "code": "ZOOL-429",
+    "page": 184
+  },
+  {
+    "subject": "Environmental Microbiology",
+    "code": "ZOOL-431",
+    "page": 185
+  },
+  {
+    "subject": "Advances in Aquaculture-I",
+    "code": "ZOOL-433",
+    "page": 186
+  },
+  {
+    "subject": "Advances in Aquaculture-ll",
+    "code": "ZOOL-435",
+    "page": 187
+  },
+  {
+    "subject": "Experimental Psychology",
+    "code": "APSY-471",
+    "page": 188
+  },
+  {
+    "subject": "Clinical Psychology-l",
+    "code": "APSY-473",
+    "page": 189
+  },
+  {
+    "subject": "Arabic-VIl",
+    "code": "ARB-401",
+    "page": 190
+  },
+  {
+    "subject": "Small Business Management",
+    "code": "BBA-401",
+    "page": 191
+  },
+  {
+    "subject": "Pakistan Economy",
+    "code": "BBA-402",
+    "page": 192
+  },
+  {
+    "subject": "Mathematics (Advance)",
+    "code": "BBA-403",
+    "page": 193
+  },
+  {
+    "subject": "Managerial Accounting",
+    "code": "BBA-404",
+    "page": 194
+  },
+  {
+    "subject": "Financial Analysis",
+    "code": "BBA-405",
+    "page": 196
+  },
+  {
+    "subject": "Strategic Human Resource Management",
+    "code": "BBA-408",
+    "page": 198
+  },
+  {
+    "subject": "Organizational Development",
+    "code": "BBA-409",
+    "page": 199
+  },
+  {
+    "subject": "Phycology & Bryology",
+    "code": "BOT-313A",
+    "page": 200
+  },
+  {
+    "subject": "Plant Physiology and Development",
+    "code": "BOT-403A",
+    "page": 201
+  },
+  {
+    "subject": "Research Methods",
+    "code": "BOT-407A",
+    "page": 202
+  },
+  {
+    "subject": "Soil and Agricultural Microbiology",
+    "code": "BOT-SP-07",
+    "page": 203
+  },
+  {
+    "subject": "Feature, Column & Editorial Writing (Theory & Practice)",
+    "code": "BSCS-307",
+    "page": 204
+  },
+  {
+    "subject": "TV News Reporting and Production",
+    "code": "BSCS-407",
+    "page": 205
+  },
+  {
+    "subject": "Advertising-I",
+    "code": "BSCS-408",
+    "page": 206
+  },
+  {
+    "subject": "Public Relations-l",
+    "code": "BSCS-409",
+    "page": 207
+  },
+  {
+    "subject": "Linguistics",
+    "code": "BSU-307",
+    "page": 208
+  },
+  {
+    "subject": "Bio Chemistry",
+    "code": "CHEM-323",
+    "page": 209
+  },
+  {
+    "subject": "Environmental Chemistry",
+    "code": "CHEM-401",
+    "page": 210
+  },
+  {
+    "subject": "Inorganic Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-407",
+    "page": 211
+  },
+  {
+    "subject": "Organic Chemistry (Sp. Theory-l)",
+    "code": "CHEM-409",
+    "page": 212
+  },
+  {
+    "subject": "Organic Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-410",
+    "page": 213
+  },
+  {
+    "subject": "Analytical Chemistry (Sp. Theory-l) |",
+    "code": "CHEM-412",
+    "page": 214
+  },
+  {
+    "subject": "Analytical Chemistry (Sp. Theory-Il)",
+    "code": "CHEM-413",
+    "page": 215
+  },
+  {
+    "subject": "Applied Chemistry (Sp. Theory-l)",
+    "code": "CHEM-415",
+    "page": 216
+  },
+  {
+    "subject": "Insurance & Risk Management",
+    "code": "COMM-403",
+    "page": 217
+  },
+  {
+    "subject": "Managerial Economics",
+    "code": "COMM-404",
+    "page": 218
+  },
+  {
+    "subject": "Management Accounting",
+    "code": "COMM-405",
+    "page": 219
+  },
+  {
+    "subject": "Statistics \u2014 Il",
+    "code": "CPSY-323",
+    "page": 220
+  },
+  {
+    "subject": "IT Project Management",
+    "code": "DI-321",
+    "page": 221
+  },
+  {
+    "subject": "Database Administration and Management",
+    "code": "DI-324",
+    "page": 222
+  },
+  {
+    "subject": "Managerial Economics",
+    "code": "ECON-328",
+    "page": 223
+  },
+  {
+    "subject": "Introduction to Political Economy",
+    "code": "ECON-329",
+    "page": 224
+  },
+  {
+    "subject": "Human Resource Development",
+    "code": "ECON-331",
+    "page": 225
+  },
+  {
+    "subject": "Money, Banking & Financial Institutions |",
+    "code": "ECON-332",
+    "page": 226
+  },
+  {
+    "subject": "Econometrics - Il",
+    "code": "ECON-405A",
+    "page": 227
+  },
+  {
+    "subject": "Public Sector Economics",
+    "code": "ECON-411",
+    "page": 228
+  },
+  {
+    "subject": "Major Issues in Pakistan's Economy",
+    "code": "ECON-414",
+    "page": 229
+  },
+  {
+    "subject": "Development Economics-ll",
+    "code": "ECON-415",
+    "page": 230
+  },
+  {
+    "subject": "Project Appraisal and Investment Analysis",
+    "code": "ECON-426",
+    "page": 231
+  },
+  {
+    "subject": "International Finance",
+    "code": "ECON-429",
+    "page": 232
+  },
+  {
+    "subject": "Islamic Banking and Finance",
+    "code": "ECON-435",
+    "page": 233
+  },
+  {
+    "subject": "The World Economic History",
+    "code": "ECON-436",
+    "page": 234
+  },
+  {
+    "subject": "General Equilibrium and Welfare Economics",
+    "code": "ECON-437",
+    "page": 235
+  },
+  {
+    "subject": "Political Science-lll",
+    "code": "EDE-165",
+    "page": 236
+  },
+  {
+    "subject": "Technical Writing and Presentation Skills",
+    "code": "EDE-327",
+    "page": 237
+  },
+  {
+    "subject": "Mobile Application Development",
+    "code": "E",
+    "page": 238
+  },
+  {
+    "subject": "Data Science",
+    "code": "EI-334",
+    "page": 239
+  },
+  {
+    "subject": "Classics in Drama",
+    "code": "ENG-308",
+    "page": 240
+  },
+  {
+    "subject": "Fantasy",
+    "code": "ENG-310",
+    "page": 241
+  },
+  {
+    "subject": "20\" Century British Literature Poetry & Drama",
+    "code": "ENG-401",
+    "page": 242
+  },
+  {
+    "subject": "20\" Century Fiction & Prose",
+    "code": "ENG-402",
+    "page": 243
+  },
+  {
+    "subject": "American Literature",
+    "code": "ENG-403",
+    "page": 244
+  },
+  {
+    "subject": "South Asian Literature",
+    "code": "ENG-404",
+    "page": 245
+  },
+  {
+    "subject": "Research Methodology",
+    "code": "ENG-405",
+    "page": 246
+  },
+  {
+    "subject": "Entomology (Morphology Physiology of Insect) Time: 3 Hrs. Marks: 60",
+    "code": "ES-44",
+    "page": 247
+  },
+  {
+    "subject": "Fish Physiology & Breeding",
+    "code": "ES-64",
+    "page": 248
+  },
+  {
+    "subject": "General Microbiology",
+    "code": "ES-71",
+    "page": 249
+  },
+  {
+    "subject": "Later Mughals and British India (1707-1857)",
+    "code": "HIS-304",
+    "page": 250
+  },
+  {
+    "subject": "History of Europe (1453-1789)",
+    "code": "HIS-305",
+    "page": 251
+  },
+  {
+    "subject": "International Relations (1919-1989)",
+    "code": "HIS-308",
+    "page": 252
+  },
+  {
+    "subject": "History of Ottoman Empire (1288-1924)",
+    "code": "HIS-403",
+    "page": 253
+  },
+  {
+    "subject": "Common Sports Injuries, Treatment & Rehabilitation (Maj.6)",
+    "code": "HPE-401",
+    "page": 254
+  },
+  {
+    "subject": "Role of Media in Sports (Elective 3)",
+    "code": "HPE-403",
+    "page": 255
+  },
+  {
+    "subject": "Scientific Sports Coaching (Foundation 10)",
+    "code": "HPE-404",
+    "page": 256
+  },
+  {
+    "subject": "Research Project",
+    "code": "HPE-405",
+    "page": 257
+  },
+  {
+    "subject": "Specialization in one game (Elective 2)",
+    "code": "HPE-406",
+    "page": 258
+  },
+  {
+    "subject": "Comparative Study of Religions-|",
+    "code": "ISE-401",
+    "page": 259
+  },
+  {
+    "subject": "Islamic Economics-!",
+    "code": "ISE-402",
+    "page": 260
+  },
+  {
+    "subject": "History & Principles of Tafsir",
+    "code": "ISE-403",
+    "page": 261
+  },
+  {
+    "subject": "Modern Tools of Research",
+    "code": "ISE-404",
+    "page": 262
+  },
+  {
+    "subject": "Set Theory",
+    "code": "MATH-401",
+    "page": 263
+  },
+  {
+    "subject": "Partial Differential Equations",
+    "code": "MATH-402",
+    "page": 264
+  },
+  {
+    "subject": "Numerical Analysis-l",
+    "code": "MATH-403",
+    "page": 265
+  },
+  {
+    "subject": "Mathematical Statistics-|",
+    "code": "MATH-404",
+    "page": 266
+  },
+  {
+    "subject": "Fortran Programming",
+    "code": "MATH-405",
+    "page": 267
+  },
+  {
+    "subject": "Ring Theory",
+    "code": "MATH-407",
+    "page": 268
+  },
+  {
+    "subject": "Number Theory-!",
+    "code": "MATH-408",
+    "page": 269
+  },
+  {
+    "subject": "Operations Research-l",
+    "code": "MATH-412",
+    "page": 270
+  },
+  {
+    "subject": "Theory of Approximation & Splines \u2014l",
+    "code": "MATH-413",
+    "page": 271
+  },
+  {
+    "subject": "Fluid Mechanics -\u2014 |",
+    "code": "MATH-415",
+    "page": 272
+  },
+  {
+    "subject": "Particle Physics-l",
+    "code": "PHY-407",
+    "page": 273
+  },
+  {
+    "subject": "Solid State Physics-Il",
+    "code": "PHYS-3402",
+    "page": 274
+  },
+  {
+    "subject": "Astrophysics",
+    "code": "PHYS-4103",
+    "page": 275
+  },
+  {
+    "subject": "Classical Electrodynamics \u2014 |",
+    "code": "PHYS-4201",
+    "page": 276
+  },
+  {
+    "subject": "Quantum Mechanics-Il",
+    "code": "PHYS-4302",
+    "page": 277
+  },
+  {
+    "subject": "Nuclear Physics-I",
+    "code": "PHYS-4303",
+    "page": 278
+  },
+  {
+    "subject": "Introductory Particle Physics",
+    "code": "PHYS-4305",
+    "page": 279
+  },
+  {
+    "subject": "Relativistic Quantum Mechanics",
+    "code": "PHYS-4306",
+    "page": 280
+  },
+  {
+    "subject": "Nanomaterial and Nanodevices",
+    "code": "PHYS-4311",
+    "page": 281
+  },
+  {
+    "subject": "Statistical Physics",
+    "code": "PHYS-4403",
+    "page": 282
+  },
+  {
+    "subject": "Advanced Solid State Physics",
+    "code": "PHYS-4406",
+    "page": 283
+  },
+  {
+    "subject": "Medical Physics",
+    "code": "PHYS-4607",
+    "page": 284
+  },
+  {
+    "subject": "Public International Law-|",
+    "code": "POL-403",
+    "page": 285
+  },
+  {
+    "subject": "Foreign Policy of Pakistan",
+    "code": "POL-404",
+    "page": 286
+  },
+  {
+    "subject": "Diplomacy",
+    "code": "POL-405",
+    "page": 287
+  },
+  {
+    "subject": "Enterprise Systems",
+    "code": "SI-342",
+    "page": 288
+  },
+  {
+    "subject": "Social Research Methods - Il",
+    "code": "SOCW-308",
+    "page": 289
+  },
+  {
+    "subject": "Social Action",
+    "code": "SOCW-310",
+    "page": 290
+  },
+  {
+    "subject": "Statistical Inference-l (Theory)",
+    "code": "STAT-401",
+    "page": 291
+  },
+  {
+    "subject": "Basic Econometrics (Theory)",
+    "code": "STAT-403",
+    "page": 292
+  },
+  {
+    "subject": "Research Methodology",
+    "code": "STAT-406",
+    "page": 293
+  },
+  {
+    "subject": "Time Series Analysis-|",
+    "code": "STAT-411",
+    "page": 294
+  },
+  {
+    "subject": "Operation Research",
+    "code": "STAT-412",
+    "page": 295
+  },
+  {
+    "subject": "Categorical Data Analysis",
+    "code": "STAT-416",
+    "page": 296
+  },
+  {
+    "subject": "Lasaniyaat",
+    "code": "URDU-401",
+    "page": 297
+  },
+  {
+    "subject": "Usool e Tehqiq 0 Tadveen",
+    "code": "U",
+    "page": 298
+  },
+  {
+    "subject": "Urdu Adab Kay Muntakhib Komi-o-Byno-ul-Aqwami Marakaz",
+    "code": "U",
+    "page": 299
+  },
+  {
+    "subject": "Research Methodology",
+    "code": "ZOOL-308",
+    "page": 300
+  },
+  {
+    "subject": "Bio Statistics/Univ. Option",
+    "code": "ZOOL-401A",
+    "page": 301
+  },
+  {
+    "subject": "Molecular Biology",
+    "code": "ZOOL-403",
+    "page": 302
+  },
+  {
+    "subject": "Positive Psychology (Revised)",
+    "code": "APSY-481",
+    "page": 303
+  },
+  {
+    "subject": "Peace Psychology (Revised)",
+    "code": "APSY-482",
+    "page": 304
+  },
+  {
+    "subject": "Clinical Psychology-ll",
+    "code": "APSY-483",
+    "page": 305
+  },
+  {
+    "subject": "Arabic-Vlll",
+    "code": "ARB-402",
+    "page": 306
+  },
+  {
+    "subject": "Statistics (Advanced)",
+    "code": "BBA-410",
+    "page": 307
+  },
+  {
+    "subject": "E-Commerce",
+    "code": "BBA-411",
+    "page": 308
+  },
+  {
+    "subject": "Financial Institutions & Services",
+    "code": "BBA-412",
+    "page": 309
+  },
+  {
+    "subject": "Financial Management (Advanced)",
+    "code": "BBA-413",
+    "page": 310
+  },
+  {
+    "subject": "Labour Laws in Pakistan",
+    "code": "BBA-417",
+    "page": 312
+  },
+  {
+    "subject": "Human Resource Development",
+    "code": "BBA-418",
+    "page": 313
+  },
+  {
+    "subject": "Microbes, Man and the Environment",
+    "code": "BOT-409",
+    "page": 314
+  },
+  {
+    "subject": "Challenges of a Changing Earth",
+    "code": "BOT-413",
+    "page": 315
+  },
+  {
+    "subject": "Media Management and Marketing",
+    "code": "BSCS-413",
+    "page": 316
+  },
+  {
+    "subject": "Specialized Journalism",
+    "code": "BSCS-414",
+    "page": 317
+  },
+  {
+    "subject": "Specialized Journalism",
+    "code": "BSCS-414-B",
+    "page": 318
+  },
+  {
+    "subject": "Advertising-Il",
+    "code": "BSCS-419",
+    "page": 319
+  },
+  {
+    "subject": "Public Relations-Il",
+    "code": "BSCS-421",
+    "page": 320
+  },
+  {
+    "subject": "Environmental Chemistry",
+    "code": "CHEM-402",
+    "page": 321
+  },
+  {
+    "subject": "Inorganic Chemistry (Sp. Theory-l)",
+    "code": "CHEM-425",
+    "page": 322
+  },
+  {
+    "subject": "Organic Chemistry (Sp. Theory-l)",
+    "code": "CHEM-428",
+    "page": 323
+  },
+  {
+    "subject": "Organic Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-429",
+    "page": 324
+  },
+  {
+    "subject": "Analytical Chemistry (Sp. Theory-l)",
+    "code": "CHEM-431",
+    "page": 325
+  },
+  {
+    "subject": "Applied Chemistry (Sp. Theory-l)",
+    "code": "CHEM-434",
+    "page": 326
+  },
+  {
+    "subject": "Investment Analysis & Management (Finance Specialization)",
+    "code": "COMM-414",
+    "page": 327
+  },
+  {
+    "subject": "Comparative Economic System",
+    "code": "ECON-312",
+    "page": 328
+  },
+  {
+    "subject": "Development Policy",
+    "code": "ECON-313",
+    "page": 329
+  },
+  {
+    "subject": "Growth Theories and Models",
+    "code": "ECON-402",
+    "page": 330
+  },
+  {
+    "subject": "Applied Economics",
+    "code": "ECON-403",
+    "page": 331
+  },
+  {
+    "subject": "International Trade",
+    "code": "ECON-404",
+    "page": 332
+  },
+  {
+    "subject": "Environmental and Natural Resource Economics",
+    "code": "ECON-410",
+    "page": 333
+  },
+  {
+    "subject": "Islamic Banking and Finance",
+    "code": "ECON-418",
+    "page": 334
+  },
+  {
+    "subject": "General Equilibrium and Welfare Economics",
+    "code": "ECON-421",
+    "page": 336
+  },
+  {
+    "subject": "Comparative Education",
+    "code": "ED-324",
+    "page": 337
+  },
+  {
+    "subject": "Pakistani Literature",
+    "code": "ENG-407",
+    "page": 338
+  },
+  {
+    "subject": "Teaching of Literature",
+    "code": "ENG-408",
+    "page": 339
+  },
+  {
+    "subject": "TESOL 11-Syllabus and Material Evaluation and Design",
+    "code": "ENG-417",
+    "page": 340
+  },
+  {
+    "subject": "Figh-lll",
+    "code": "ISE-406",
+    "page": 341
+  },
+  {
+    "subject": "Network Security",
+    "code": "IT-406",
+    "page": 342
+  },
+  {
+    "subject": "Software Quality Assurance",
+    "code": "IT-407",
+    "page": 343
+  },
+  {
+    "subject": "Introduction to Economics",
+    "code": "IT-408",
+    "page": 344
+  },
+  {
+    "subject": "Measure Theory and Lebesgue Integration",
+    "code": "MATH-416",
+    "page": 345
+  },
+  {
+    "subject": "Methods of Mathematical Physics",
+    "code": "MATH-417",
+    "page": 346
+  },
+  {
+    "subject": "Numerical Analysis-ll",
+    "code": "MATH-418",
+    "page": 347
+  },
+  {
+    "subject": "Mathematical Statistics-lIl",
+    "code": "MATH-419",
+    "page": 348
+  },
+  {
+    "subject": "Computer Applications",
+    "code": "MATH-421",
+    "page": 349
+  },
+  {
+    "subject": "Group Theory-lll",
+    "code": "MATH-422",
+    "page": 350
+  },
+  {
+    "subject": "Theory of Modules",
+    "code": "MATH-423",
+    "page": 351
+  },
+  {
+    "subject": "Number Theory-ll",
+    "code": "MATH-424",
+    "page": 352
+  },
+  {
+    "subject": "Operations Research-ll",
+    "code": "MATH-428",
+    "page": 353
+  },
+  {
+    "subject": "Theory of Approximation and Splines-Il",
+    "code": "MATH-429",
+    "page": 354
+  },
+  {
+    "subject": "Fluid Mechanics-Il",
+    "code": "MATH-431",
+    "page": 355
+  },
+  {
+    "subject": "Nuclear Physics-ll",
+    "code": "PHY-424",
+    "page": 356
+  },
+  {
+    "subject": "Advanced Electronics-lll (Theory)",
+    "code": "PHY-431",
+    "page": 357
+  },
+  {
+    "subject": "Relativity and Cosmology",
+    "code": "PHYS-4102",
+    "page": 358
+  },
+  {
+    "subject": "Astrophysics",
+    "code": "PHYS-4103",
+    "page": 359
+  },
+  {
+    "subject": "Classical Electrodynamics-ll",
+    "code": "PHYS-4202",
+    "page": 360
+  },
+  {
+    "subject": "Nuclear Physics-ll",
+    "code": "PHYS-4304",
+    "page": 361
+  },
+  {
+    "subject": "Introductory Particle Physics",
+    "code": "PHYS-4305",
+    "page": 363
+  },
+  {
+    "subject": "Nanomaterial and Nanodevices",
+    "code": "PHYS-4311",
+    "page": 364
+  },
+  {
+    "subject": "Solid State Physics-Ill",
+    "code": "PHYS-4404",
+    "page": 365
+  },
+  {
+    "subject": "Medical Physics",
+    "code": "PHYS-4607",
+    "page": 366
+  },
+  {
+    "subject": "Local Government in Pakistan",
+    "code": "POL-407",
+    "page": 367
+  },
+  {
+    "subject": "Public International Law-ll",
+    "code": "POL-408",
+    "page": 368
+  },
+  {
+    "subject": "International Organizations",
+    "code": "POL-409",
+    "page": 369
+  },
+  {
+    "subject": "Statistical Inference-Il (Theory)",
+    "code": "STAT-407",
+    "page": 370
+  },
+  {
+    "subject": "Applied Econometrics (Theory)",
+    "code": "STAT-409",
+    "page": 371
+  },
+  {
+    "subject": "Total Quality Management",
+    "code": "STAT-415",
+    "page": 372
+  },
+  {
+    "subject": "Naayay Tanqidi Mubahas",
+    "code": "URDU-406",
+    "page": 373
+  },
+  {
+    "subject": "Iqbal ka Khasoosi Mutalia (fiqri o funny mutalia aur tashery maton)",
+    "code": "URDU-407",
+    "page": 374
+  },
+  {
+    "subject": "Biological Techniques",
+    "code": "ZOOL-407",
+    "page": 375
+  },
+  {
+    "subject": "Zoogeography",
+    "code": "ZOOL-409",
+    "page": 376
+  },
+  {
+    "subject": "Bacteriology",
+    "code": "ZOOL-429",
+    "page": 377
+  },
+  {
+    "subject": "Environmental Microbiology",
+    "code": "ZOOL-431",
+    "page": 378
+  },
+  {
+    "subject": "Experimental Psychology",
+    "code": "APSY-471",
+    "page": 379
+  },
+  {
+    "subject": "Clinical Psychology-l",
+    "code": "APSY-473",
+    "page": 380
+  },
+  {
+    "subject": "Arabic-VIl",
+    "code": "ARB-401",
+    "page": 381
+  },
+  {
+    "subject": "Small Business Management",
+    "code": "BBA-401",
+    "page": 382
+  },
+  {
+    "subject": "Pakistan Economy",
+    "code": "BBA-402",
+    "page": 383
+  },
+  {
+    "subject": "Mathematics (Advance)",
+    "code": "BBA-403",
+    "page": 384
+  },
+  {
+    "subject": "Managerial Accounting",
+    "code": "BBA-404",
+    "page": 385
+  },
+  {
+    "subject": "Financial Analysis",
+    "code": "BBA-405",
+    "page": 387
+  },
+  {
+    "subject": "Sales Management",
+    "code": "BBA-406",
+    "page": 389
+  },
+  {
+    "subject": "Marketing Research",
+    "code": "BBA-407",
+    "page": 390
+  },
+  {
+    "subject": "Strategic Human Resource Management",
+    "code": "BBA-408",
+    "page": 391
+  },
+  {
+    "subject": "Organizational Development",
+    "code": "BBA-409",
+    "page": 392
+  },
+  {
+    "subject": "Air Pollution its Impacts and Control",
+    "code": "BOT-401",
+    "page": 393
+  },
+  {
+    "subject": "Principles of Genetics",
+    "code": "BOT-401A",
+    "page": 394
+  },
+  {
+    "subject": "Biohazards, Biosafety, Bioethics",
+    "code": "BOT-403",
+    "page": 395
+  },
+  {
+    "subject": "Plant Physiology and Development",
+    "code": "BOT-403A",
+    "page": 396
+  },
+  {
+    "subject": "Plant Nutrition and Soil Fertility",
+    "code": "BOT-405",
+    "page": 397
+  },
+  {
+    "subject": "Environmental Biology",
+    "code": "BOT-405A",
+    "page": 398
+  },
+  {
+    "subject": "Biodegradation and Bioremediation",
+    "code": "BOT-407",
+    "page": 399
+  },
+  {
+    "subject": "Research Methods",
+    "code": "BOT-407A",
+    "page": 400
+  },
+  {
+    "subject": "Bioremedian",
+    "code": "BOT-SP-02",
+    "page": 401
+  },
+  {
+    "subject": "Soil and Agricultural Microbiology",
+    "code": "BOT-SP-07",
+    "page": 402
+  },
+  {
+    "subject": "Cultivation of Edible Fungi",
+    "code": "BOT-SP-12",
+    "page": 403
+  },
+  {
+    "subject": "Agriculture and Environmental Pollution",
+    "code": "BOT-SP-14",
+    "page": 404
+  },
+  {
+    "subject": "Advances and Molecular Genetics",
+    "code": "BOT-SP-15",
+    "page": 405
+  },
+  {
+    "subject": "Biohazards, Biosafety, Bioethics",
+    "code": "BOT-SP-16",
+    "page": 406
+  },
+  {
+    "subject": "Plant Physiology and Climate Change",
+    "code": "BOT-SP-18",
+    "page": 407
+  },
+  {
+    "subject": "Environmental Bacteriology",
+    "code": "BOT-SP-22",
+    "page": 408
+  },
+  {
+    "subject": "Gene Cloning",
+    "code": "BOT-SP-23",
+    "page": 409
+  },
+  {
+    "subject": "Modern Arabic Prose",
+    "code": "BSAR-401",
+    "page": 410
+  },
+  {
+    "subject": "Arabic Rhetoric",
+    "code": "BSAR-402",
+    "page": 411
+  },
+  {
+    "subject": "Classical Arabic Poetry",
+    "code": "BSAR-403",
+    "page": 412
+  },
+  {
+    "subject": "Research Methodology",
+    "code": "BSAR-404",
+    "page": 413
+  },
+  {
+    "subject": "History of Arabic Literature-I",
+    "code": "BSAR-405",
+    "page": 414
+  },
+  {
+    "subject": "Arabic Prosody",
+    "code": "BSAR-406",
+    "page": 415
+  },
+  {
+    "subject": "Research Methods-Il",
+    "code": "BSCS-401",
+    "page": 416
+  },
+  {
+    "subject": "Developments Communication/ Journalism",
+    "code": "BSCS-402",
+    "page": 417
+  },
+  {
+    "subject": "Media Ethics & Laws",
+    "code": "BSCS-403",
+    "page": 418
+  },
+  {
+    "subject": "Radio News Reporting and Production",
+    "code": "BSCS-406",
+    "page": 419
+  },
+  {
+    "subject": "TV News Reporting and Production",
+    "code": "BSCS-407",
+    "page": 420
+  },
+  {
+    "subject": "Advertising-I",
+    "code": "BSCS-408",
+    "page": 421
+  },
+  {
+    "subject": "Public Relations-l",
+    "code": "BSCS-409",
+    "page": 422
+  },
+  {
+    "subject": "Environmental Chemistry",
+    "code": "CHEM-401",
+    "page": 423
+  },
+  {
+    "subject": "Physical Chemistry (Sp. Theory-l)",
+    "code": "CHEM-403",
+    "page": 424
+  },
+  {
+    "subject": "Physical Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-404",
+    "page": 425
+  },
+  {
+    "subject": "Inorganic Chemistry (Sp. Theory-l)",
+    "code": "CHEM-406",
+    "page": 426
+  },
+  {
+    "subject": "Inorganic Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-407",
+    "page": 427
+  },
+  {
+    "subject": "Organic Chemistry (Sp. Theory-l)",
+    "code": "CHEM-409",
+    "page": 428
+  },
+  {
+    "subject": "Organic Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-410",
+    "page": 430
+  },
+  {
+    "subject": "Analytical Chemistry (Sp. Theory-l) |",
+    "code": "CHEM-412",
+    "page": 431
+  },
+  {
+    "subject": "Analytical Chemistry (Sp. Theory-Il)",
+    "code": "CHEM-413",
+    "page": 432
+  },
+  {
+    "subject": "Applied Chemistry (Sp. Theory-l)",
+    "code": "CHEM-415",
+    "page": 433
+  },
+  {
+    "subject": "Applied Chemistry (Sp. Theory-ll)",
+    "code": "CHEM-416",
+    "page": 434
+  },
+  {
+    "subject": "Bio Chemistry (Sp. Theory-l)",
+    "code": "CHEM-418",
+    "page": 435
+  },
+  {
+    "subject": "Bio Chemistry (Sp. Theory-Il)",
+    "code": "CHEM-419",
+    "page": 436
+  },
+  {
+    "subject": "Corporate Law",
+    "code": "COMM-401",
+    "page": 437
+  },
+  {
+    "subject": "Human Resource Management",
+    "code": "COMM-402",
+    "page": 438
+  },
+  {
+    "subject": "Insurance & Risk Management",
+    "code": "COMM-403",
+    "page": 439
+  },
+  {
+    "subject": "Managerial Economics",
+    "code": "COMM-404",
+    "page": 440
+  },
+  {
+    "subject": "Management Accounting",
+    "code": "COMM-405",
+    "page": 441
+  },
+  {
+    "subject": "Corporate Finance (Finance Specialization)",
+    "code": "COMM-406",
+    "page": 442
+  },
+  {
+    "subject": "Consumer Behavior (Marketing Specialization)",
+    "code": "COMM-407",
+    "page": 443
+  },
+  {
+    "subject": "IT Project Management",
+    "code": "DI-321",
+    "page": 444
+  },
+  {
+    "subject": "Database Administration and Management",
+    "code": "DI-324",
+    "page": 445
+  },
+  {
+    "subject": "Cyber Security",
+    "code": "DI-325",
+    "page": 446
+  },
+  {
+    "subject": "Agricultural Economics",
+    "code": "ECON-315",
+    "page": 447
+  },
+  {
+    "subject": "Money, Banking & Financial Institutions",
+    "code": "ECON-317",
+    "page": 448
+  },
+  {
+    "subject": "Labor Economics",
+    "code": "ECON-326",
+    "page": 449
+  },
+  {
+    "subject": "Comparative Economic System",
+    "code": "ECON-327",
+    "page": 450
+  },
+  {
+    "subject": "Managerial Economics",
+    "code": "ECON-328",
+    "page": 451
+  },
+  {
+    "subject": "Introduction to Political Economy",
+    "code": "ECON-329",
+    "page": 452
+  },
+  {
+    "subject": "Agricultural Economics",
+    "code": "ECON-330",
+    "page": 453
+  },
+  {
+    "subject": "Human Resource Development",
+    "code": "ECON-331",
+    "page": 454
+  },
+  {
+    "subject": "Money Banking and Financial Institutions",
+    "code": "ECON-332",
+    "page": 455
+  },
+  {
+    "subject": "Economic Principles, Strategies and Techniques of Marketing",
+    "code": "ECON-333",
+    "page": 456
+  },
+  {
+    "subject": "Population Economics",
+    "code": "ECON-334",
+    "page": 457
+  },
+  {
+    "subject": "Public Sector Economics",
+    "code": "ECON-401A",
+    "page": 458
+  },
+  {
+    "subject": "Econometrics - Il",
+    "code": "ECON-405A",
+    "page": 459
+  },
+  {
+    "subject": "Public Sector Economics",
+    "code": "ECON-411",
+    "page": 460
+  },
+  {
+    "subject": "Major Issues in Pakistan's Economy",
+    "code": "ECON-414",
+    "page": 461
+  },
+  {
+    "subject": "Development Economics-ll",
+    "code": "ECON-415",
+    "page": 462
+  },
+  {
+    "subject": "Energy Economics",
+    "code": "ECON-417",
+    "page": 463
+  },
+  {
+    "subject": "Islamic Banking and Finance",
+    "code": "ECON-418",
+    "page": 464
+  },
+  {
+    "subject": "Project Appraisal and Investment Analysis",
+    "code": "ECON-426",
+    "page": 465
+  },
+  {
+    "subject": "Environmental and Natural Resource Economics",
+    "code": "ECON-427",
+    "page": 466
+  },
+  {
+    "subject": "International Finance",
+    "code": "ECON-429",
+    "page": 467
+  },
+  {
+    "subject": "Poverty and Income Distribution",
+    "code": "ECON-433",
+    "page": 468
+  },
+  {
+    "subject": "Energy Economics",
+    "code": "ECON-434",
+    "page": 469
+  },
+  {
+    "subject": "Islamic Banking and Finance",
+    "code": "ECON-435",
+    "page": 470
+  },
+  {
+    "subject": "World Economic History",
+    "code": "ECON-436",
+    "page": 471
+  },
+  {
+    "subject": "Paper: General Equilibrium and Welfare Economics",
+    "code": "ECON-437",
+    "page": 472
+  },
+  {
+    "subject": "Geography-IV",
+    "code": "EDE-158",
+    "page": 473
+  },
+  {
+    "subject": "History-IV",
+    "code": "EDE-162",
+    "page": 474
+  },
+  {
+    "subject": "Political Science IV",
+    "code": "EDE-166",
+    "page": 475
+  },
+  {
+    "subject": "Sociology-IlV",
+    "code": "EDE-170",
+    "page": 476
+  },
+  {
+    "subject": "Urdu-lV",
+    "code": "EDE-174",
+    "page": 477
+  },
+  {
+    "subject": "Islamic Studies IV",
+    "code": "EDE-178",
+    "page": 478
+  },
+  {
+    "subject": "School Organization and Management",
+    "code": "EDE-323",
+    "page": 479
+  },
+  {
+    "subject": "Technical Writing and Presentation Skills",
+    "code": "EDE-327",
+    "page": 480
+  },
+  {
+    "subject": "Data Science",
+    "code": "EI-334",
+    "page": 481
+  },
+  {
+    "subject": "20\" Century British Literature Poetry & Drama",
+    "code": "ENG-401",
+    "page": 483
+  },
+  {
+    "subject": "20\" Century Fiction & Prose",
+    "code": "ENG-402",
+    "page": 484
+  },
+  {
+    "subject": "American Literature",
+    "code": "ENG-403",
+    "page": 485
+  },
+  {
+    "subject": "South Asian Literature",
+    "code": "ENG-404",
+    "page": 486
+  },
+  {
+    "subject": "Research Methodology",
+    "code": "ENG-405",
+    "page": 487
+  },
+  {
+    "subject": "Pedagogical Grammar",
+    "code": "ENG-411",
+    "page": 488
+  },
+  {
+    "subject": "TESOL \u2014 | English Language Skills",
+    "code": "ENG-412",
+    "page": 489
+  },
+  {
+    "subject": "Language & Gender",
+    "code": "ENG-413",
+    "page": 490
+  },
+  {
+    "subject": "Language, Culture and Identity",
+    "code": "ENG-414",
+    "page": 491
+  },
+  {
+    "subject": "Introduction to Research Methods in Applied Linguistics",
+    "code": "ENG-415",
+    "page": 492
+  },
+  {
+    "subject": "Entomology (Morphology Physiology of Insect) Time: 3 Hrs. Marks: 60",
+    "code": "ES-44",
+    "page": 493
+  },
+  {
+    "subject": "Fish Physiology & Breeding",
+    "code": "ES-64",
+    "page": 494
+  },
+  {
+    "subject": "General Microbiology (CLASH)",
+    "code": "ES-71",
+    "page": 495
+  },
+  {
+    "subject": "Geography of Pakistan",
+    "code": "GEOG-401",
+    "page": 496
+  },
+  {
+    "subject": "Political Geography",
+    "code": "GEOG-411",
+    "page": 497
+  },
+  {
+    "subject": "North America",
+    "code": "GEOG-427",
+    "page": 498
+  },
+  {
+    "subject": "Techniques in RS and GIS",
+    "code": "GEOG-433",
+    "page": 499
+  },
+  {
+    "subject": "Principles of Remote Sensing",
+    "code": "GEOG-434N",
+    "page": 500
+  },
+  {
+    "subject": "Gender, Development and Globalization",
+    "code": "GS-401",
+    "page": 501
+  },
+  {
+    "subject": "Gender and Education",
+    "code": "GS-402",
+    "page": 502
+  },
+  {
+    "subject": "Gender Project Cycle Management",
+    "code": "GS-403",
+    "page": 503
+  },
+  {
+    "subject": "Introduction to Statistical Analysis (SPSS)",
+    "code": "GS-404",
+    "page": 504
+  },
+  {
+    "subject": "Gender Issues in Urbanization",
+    "code": "GS-405",
+    "page": 505
+  },
+  {
+    "subject": "Gender and Crime",
+    "code": "GS-406",
+    "page": 506
+  },
+  {
+    "subject": "United States after Second World War Time: 3 Hrs. Marks: 60",
+    "code": "HIS-401",
+    "page": 507
+  },
+  {
+    "subject": "Central Asia",
+    "code": "HIS-402",
+    "page": 508
+  },
+  {
+    "subject": "History of Ottoman Empire (1288-1924)",
+    "code": "HIS-403",
+    "page": 509
+  },
+  {
+    "subject": "State & Society in Medieval India (1206-1707)",
+    "code": "HIS-404",
+    "page": 510
+  },
+  {
+    "subject": "Common Sports Injuries, Treatent & Rehabil. (Maj.6)",
+    "code": "HPE-401",
+    "page": 511
+  },
+  {
+    "subject": "Exercise Physiology (Major 7)",
+    "code": "HPE-402",
+    "page": 512
+  },
+  {
+    "subject": "Role of Media in Sports (Elective 3)",
+    "code": "HPE-403",
+    "page": 513
+  },
+  {
+    "subject": "Scientific Sports Coaching (Foundation 10)",
+    "code": "HPE-404",
+    "page": 514
+  },
+  {
+    "subject": "Research Project",
+    "code": "HPE-405",
+    "page": 515
+  },
+  {
+    "subject": "Specialization in one game (Elective 2)",
+    "code": "HPE-406",
+    "page": 516
+  },
+  {
+    "subject": "Comparative Study of Religions-|",
+    "code": "ISE-401",
+    "page": 517
+  },
+  {
+    "subject": "Islamic Economics-!",
+    "code": "ISE-402",
+    "page": 518
+  },
+  {
+    "subject": "History & Principles of Tafsir",
+    "code": "ISE-403",
+    "page": 519
+  },
+  {
+    "subject": "Modern Tools of Research",
+    "code": "ISE-404",
+    "page": 520
+  },
+  {
+    "subject": "Network Management and Administration",
+    "code": "IT-401",
+    "page": 521
+  },
+  {
+    "subject": "Enterprise Application Development",
+    "code": "IT-402",
+    "page": 522
+  },
+  {
+    "subject": "Database Administration",
+    "code": "IT-403",
+    "page": 523
+  },
+  {
+    "subject": "Project Management",
+    "code": "IT-404",
+    "page": 524
+  },
+  {
+    "subject": "Set Theory",
+    "code": "MATH-401",
+    "page": 525
+  },
+  {
+    "subject": "Partial Differential Equations",
+    "code": "MATH-402",
+    "page": 526
+  },
+  {
+    "subject": "Numerical Analysis-l",
+    "code": "MATH-403",
+    "page": 527
+  },
+  {
+    "subject": "Mathematical Statistics-|",
+    "code": "MATH-404",
+    "page": 528
+  },
+  {
+    "subject": "Fortran Programming",
+    "code": "MATH-405",
+    "page": 529
+  },
+  {
+    "subject": "Group Theory-ll",
+    "code": "MATH-406",
+    "page": 530
+  },
+  {
+    "subject": "Ring Theory",
+    "code": "MATH-407",
+    "page": 531
+  },
+  {
+    "subject": "Number Theory-!",
+    "code": "MATH-408",
+    "page": 532
+  },
+  {
+    "subject": "Quantum Mechanics-|",
+    "code": "MATH-409",
+    "page": 533
+  },
+  {
+    "subject": "Operations Research-l",
+    "code": "MATH-412",
+    "page": 534
+  },
+  {
+    "subject": "Theory of Approximation & Splines \u2014l",
+    "code": "MATH-413",
+    "page": 535
+  },
+  {
+    "subject": "Fluid Mechanics -\u2014 |",
+    "code": "MATH-415",
+    "page": 536
+  },
+  {
+    "subject": "Solid State Physics-l",
+    "code": "PHY-419",
+    "page": 537
+  },
+  {
+    "subject": "Astrophysics",
+    "code": "PHYS-4103",
+    "page": 538
+  },
+  {
+    "subject": "Classical Electrodynamics-|",
+    "code": "PHYS-4201",
+    "page": 539
+  },
+  {
+    "subject": "Quantum Mechanics-ll",
+    "code": "PHYS-4302",
+    "page": 540
+  },
+  {
+    "subject": "Nuclear Physics-l",
+    "code": "PHYS-4303",
+    "page": 541
+  },
+  {
+    "subject": "Introductory Particle Physics",
+    "code": "PHYS-4305",
+    "page": 543
+  },
+  {
+    "subject": "Relativistic Quantum Mechanics",
+    "code": "PHYS-4306",
+    "page": 544
+  },
+  {
+    "subject": "Quantum Information Theory",
+    "code": "PHYS-4308",
+    "page": 545
+  },
+  {
+    "subject": "Quantum Electronics",
+    "code": "PHYS-4310",
+    "page": 546
+  },
+  {
+    "subject": "Nanomaterial and Nanodevices",
+    "code": "PHYS-4311",
+    "page": 547
+  },
+  {
+    "subject": "Advanced Digital Electronics",
+    "code": "PHYS-4312",
+    "page": 548
+  },
+  {
+    "subject": "Statistical Physics",
+    "code": "PHYS-4403",
+    "page": 549
+  },
+  {
+    "subject": "Topics in Solid State Physics",
+    "code": "PHYS-4405",
+    "page": 550
+  },
+  {
+    "subject": "Advanced Solid State Physics",
+    "code": "PHYS-4406",
+    "page": 551
+  },
+  {
+    "subject": "Medical Physics",
+    "code": "PHYS-4607",
+    "page": 552
+  },
+  {
+    "subject": "Method of Study & Research",
+    "code": "POL-401",
+    "page": 553
+  },
+  {
+    "subject": "Foreign Policy Analysis",
+    "code": "POL-402",
+    "page": 554
+  },
+  {
+    "subject": "Public International Law-|",
+    "code": "POL-403",
+    "page": 555
+  },
+  {
+    "subject": "Foreign Policy of Pakistan",
+    "code": "POL-404",
+    "page": 556
+  },
+  {
+    "subject": "Diplomacy",
+    "code": "POL-405",
+    "page": 557
+  },
+  {
+    "subject": "Foreign Policies of USA and UK",
+    "code": "POL-406",
+    "page": 558
+  },
+  {
+    "subject": "Web Survey & SPSS",
+    "code": "SOC-402",
+    "page": 559
+  },
+  {
+    "subject": "Electronic Media and Virtual Society",
+    "code": "SOC-403",
+    "page": 560
+  },
+  {
+    "subject": "Conflict and Alternative Dispute Resolution",
+    "code": "SOC-404",
+    "page": 561
+  },
+  {
+    "subject": "Statistical Inference-l (Theory)",
+    "code": "STAT-401",
+    "page": 562
+  },
+  {
+    "subject": "Basic Econometrics (Theory)",
+    "code": "STAT-403",
+    "page": 563
+  },
+  {
+    "subject": "Research Methodology",
+    "code": "STAT-406",
+    "page": 564
+  },
+  {
+    "subject": "Time Series Analysis-l",
+    "code": "STAT-411",
+    "page": 565
+  },
+  {
+    "subject": "Operation Research",
+    "code": "STAT-412",
+    "page": 566
+  },
+  {
+    "subject": "Categorical Data Analysis",
+    "code": "STAT-416",
+    "page": 567
+  },
+  {
+    "subject": "Lasaniyaat",
+    "code": "URDU-401",
+    "page": 568
+  },
+  {
+    "subject": "Asool e Tehqiq 0 Tadveen",
+    "code": "URDU-402",
+    "page": 569
+  },
+  {
+    "subject": "Urdu Adab ka Taneesi Mutalaa",
+    "code": "U",
+    "page": 570
+  },
+  {
+    "subject": "Urdu Adab Kay Muntakhib Komi-o-Byno-ul-Aqwami Marakaz",
+    "code": "U",
+    "page": 571
+  },
+  {
+    "subject": "Principle of Systematics",
+    "code": "ZOOL-401",
+    "page": 572
+  },
+  {
+    "subject": "Bio Statistics",
+    "code": "ZOOL-401A",
+    "page": 573
+  },
+  {
+    "subject": "Palaeontology",
+    "code": "ZOOL-403",
+    "page": 574
+  },
+  {
+    "subject": "Molecular Biology Time: 3 Hrs. Marks: 60",
+    "code": "ZOOL-403",
+    "page": 575
+  },
+  {
+    "subject": "Economic Zoology",
+    "code": "ZOOL-405",
+    "page": 576
+  },
+  {
+    "subject": "Medical Entomology",
+    "code": "ZOOL-413",
+    "page": 577
+  },
+  {
+    "subject": "General Microbiology",
+    "code": "ZOOL-415",
+    "page": 578
+  },
+  {
+    "subject": "Applied Microbiology",
+    "code": "ZOOL-417",
+    "page": 579
+  },
+  {
+    "subject": "Techniques in Fisheries Research",
+    "code": "ZOOL-421",
+    "page": 580
+  },
+  {
+    "subject": "Environmental Biology of Fishes",
+    "code": "ZOOL-423",
+    "page": 581
+  },
+  {
+    "subject": "Research Methods-Il",
+    "code": "APSY-361",
+    "page": 582
+  },
+  {
+    "subject": "Theories of Personality (Revised)",
+    "code": "APSY-363",
+    "page": 583
+  },
+  {
+    "subject": "Biological Basis of Behavior",
+    "code": "APSY-364",
+    "page": 584
+  },
+  {
+    "subject": "Social Psychology (Revised)",
+    "code": "APSY-367",
+    "page": 585
+  },
+  {
+    "subject": "Health Psychology",
+    "code": "APSY-368",
+    "page": 586
+  },
+  {
+    "subject": "Arabic-VI",
+    "code": "ARB-302",
+    "page": 587
+  },
+  {
+    "subject": "Auditing",
+    "code": "BBA-306",
+    "page": 588
+  },
+  {
+    "subject": "Taxation Management (Basic)",
+    "code": "BBA-307",
+    "page": 589
+  },
+  {
+    "subject": "Management Information System",
+    "code": "BBA-308",
+    "page": 591
+  },
+  {
+    "subject": "Development Economics",
+    "code": "BBA-309",
+    "page": 592
+  },
+  {
+    "subject": "Current Business Affairs",
+    "code": "BBA-310",
+    "page": 593
+  },
+  {
+    "subject": "Corporate Governance",
+    "code": "BBA-311",
+    "page": 594
+  },
+  {
+    "subject": "Phycology & Bryology",
+    "code": "BOT-313A",
+    "page": 595
+  },
+  {
+    "subject": "Plant Tissue Culture (Advance Course)",
+    "code": "BOT-315",
+    "page": 596
+  },
+  {
+    "subject": "Anatomy of Vascular Plants",
+    "code": "BOT-315A",
+    "page": 597
+  },
+  {
+    "subject": "Palynology (Advance Course)",
+    "code": "BOT-317",
+    "page": 598
+  },
+  {
+    "subject": "Synecology & Ecosystems",
+    "code": "BOT-317A",
+    "page": 599
+  },
+  {
+    "subject": "Evolutionary Trends among Spermatophytes",
+    "code": "BOT-319A",
+    "page": 600
+  },
+  {
+    "subject": "Plant Biochemistry (Bioenergetics and Metabolism) vere eeeereeeeees",
+    "code": "BOT-321",
+    "page": 601
+  },
+  {
+    "subject": "Higher Fungi",
+    "code": "BOT-323",
+    "page": 602
+  },
+  {
+    "subject": "Applied Grammar II",
+    "code": "BSAR-306",
+    "page": 603
+  },
+  {
+    "subject": "Arabic Composition \u2014 Il",
+    "code": "BSAR-307",
+    "page": 604
+  },
+  {
+    "subject": "Classical Arabic Prose",
+    "code": "BSAR-308",
+    "page": 605
+  },
+  {
+    "subject": "Arabic Composition II",
+    "code": "BSAR-307",
+    "page": 606
+  },
+  {
+    "subject": "Quranic Literature",
+    "code": "BSAR-309",
+    "page": 607
+  },
+  {
+    "subject": "Hadith Literature",
+    "code": "BSAR-310",
+    "page": 609
+  },
+  {
+    "subject": "Sub Editing & Page Designing (Theory & Practice)",
+    "code": "BSCS-306",
+    "page": 610
+  },
+  {
+    "subject": "Feature, Column & Editorial Writing (Theory & Practice)",
+    "code": "BSCS-307",
+    "page": 611
+  },
+  {
+    "subject": "Research Methods-l",
+    "code": "BSCS-308",
+    "page": 612
+  },
+  {
+    "subject": "Theories of Communication-ll",
+    "code": "BSCS-309",
+    "page": 613
+  },
+  {
+    "subject": "Introduction to Advertising & Public Relations",
+    "code": "BSCS-310",
+    "page": 614
+  },
+  {
+    "subject": "Urdu Poem: Thematic and Artistic Study",
+    "code": "BSU-306",
+    "page": 615
+  },
+  {
+    "subject": "Linguistics",
+    "code": "BSU-307",
+    "page": 616
+  },
+  {
+    "subject": "Principles of Research and Editing |",
+    "code": "BSU-308",
+    "page": 617
+  },
+  {
+    "subject": "Selected National & International Centers of Urdu",
+    "code": "BSU-309",
+    "page": 618
+  },
+  {
+    "subject": "Punjabi Language and Literature",
+    "code": "BSU-310",
+    "page": 619
+  },
+  {
+    "subject": "Computer Networks",
+    "code": "CC-313",
+    "page": 620
+  },
+  {
+    "subject": "Physical Chemistry",
+    "code": "CHEM-313",
+    "page": 621
+  },
+  {
+    "subject": "Inorganic Chemistry",
+    "code": "CHEM-315",
+    "page": 622
+  },
+  {
+    "subject": "Organic Chemistry",
+    "code": "CHEM-317",
+    "page": 623
+  },
+  {
+    "subject": "Analytical Chemistry",
+    "code": "CHEM-319",
+    "page": 624
+  },
+  {
+    "subject": "Applied Chemistry",
+    "code": "CHEM-321",
+    "page": 625
+  },
+  {
+    "subject": "Bio Chemistry",
+    "code": "CHEM-323",
+    "page": 626
+  },
+  {
+    "subject": "Financial Management (Commerce)",
+    "code": "COMM-306",
+    "page": 627
+  },
+  {
+    "subject": "Islamic Principles of Business &Finance = a tt",
+    "code": "COMM-308",
+    "page": 629
+  },
+  {
+    "subject": "Logic & Critical Thinking (Commerce)",
+    "code": "COMM-309",
+    "page": 630
+  },
+  {
+    "subject": "Organizational Behavior",
+    "code": "COMM-310",
+    "page": 631
+  },
+  {
+    "subject": "Research Methods-ll",
+    "code": "CPSY-321",
+    "page": 632
+  },
+  {
+    "subject": "Statistics \u2014 Il",
+    "code": "CPSY-323",
+    "page": 633
+  },
+  {
+    "subject": "Adult Psychopathology",
+    "code": "CPSY-324",
+    "page": 634
+  },
+  {
+    "subject": "Health Psychology",
+    "code": "CPSY-325",
+    "page": 635
+  },
+  {
+    "subject": "Clinical Psychology-!",
+    "code": "CPSY-326",
+    "page": 636
+  },
+  {
+    "subject": "System and Network Administration",
+    "code": "DI-323A",
+    "page": 637
+  },
+  {
+    "subject": "Artificial Intelligence",
+    "code": "DI-326",
+    "page": 638
+  },
+  {
+    "subject": "Monetary Economics",
+    "code": "ECON-324",
+    "page": 639
+  },
+  {
+    "subject": "Advanced Macroeconomics",
+    "code": "ECON-302",
+    "page": 640
+  },
+  {
+    "subject": "Monetary Economics",
+    "code": "ECON-308",
+    "page": 641
+  },
+  {
+    "subject": "Development Policy",
+    "code": "ECON-313",
+    "page": 642
+  },
+  {
+    "subject": "Advanced Macroeconomics",
+    "code": "ECON-323",
+    "page": 643
+  },
+  {
+    "subject": "Econometrics-ll",
+    "code": "ECON-325",
+    "page": 644
+  },
+  {
+    "subject": "Labor Economics",
+    "code": "ECON-326",
+    "page": 645
+  },
+  {
+    "subject": "Comparative Economic System",
+    "code": "ECON-327",
+    "page": 646
+  },
+  {
+    "subject": "Managerial Economics",
+    "code": "ECON-328",
+    "page": 647
+  },
+  {
+    "subject": "Agricultural Economics",
+    "code": "ECON-330",
+    "page": 648
+  },
+  {
+    "subject": "Human Resource Development",
+    "code": "ECON-331",
+    "page": 649
+  },
+  {
+    "subject": "Money, Banking & Financial Institutions",
+    "code": "ECON-332",
+    "page": 650
+  },
+  {
+    "subject": "Papulation Economics",
+    "code": "ECON-334",
+    "page": 651
+  },
+  {
+    "subject": "Environmental and Natural Resource Economics",
+    "code": "ECON-427",
+    "page": 652
+  },
+  {
+    "subject": "Poverty and Income Distribution",
+    "code": "ECON-433",
+    "page": 653
+  },
+  {
+    "subject": "Islamic Banking and Finance",
+    "code": "ECON-435",
+    "page": 654
+  },
+  {
+    "subject": "General Equilibrium and Welfare Economics",
+    "code": "ECON-437",
+    "page": 655
+  },
+  {
+    "subject": "History-Ill",
+    "code": "EDE-161",
+    "page": 656
+  },
+  {
+    "subject": "Political Science-lll",
+    "code": "EDE-165",
+    "page": 657
+  },
+  {
+    "subject": "Sociology Ill",
+    "code": "EDE-169",
+    "page": 658
+  },
+  {
+    "subject": "Urdu-lll",
+    "code": "EDE-173",
+    "page": 659
+  },
+  {
+    "subject": "Islamic Studies-lll",
+    "code": "EDE-177",
+    "page": 660
+  },
+  {
+    "subject": "Arabic-lll",
+    "code": "EDE-181",
+    "page": 661
+  },
+  {
+    "subject": "Methods of Teaching Mathematics in Elementary School",
+    "code": "EDE-371",
+    "page": 662
+  },
+  {
+    "subject": "Methods of Teaching Social Studies in Elementary School",
+    "code": "EDE-375",
+    "page": 663
+  },
+  {
+    "subject": "Methods of Teaching Islamiyat in Elementary School",
+    "code": "EDE-376",
+    "page": 664
+  },
+  {
+    "subject": "Mobile Application Development",
+    "code": "E",
+    "page": 665
+  },
+  {
+    "subject": "Criticism and Theory-ll",
+    "code": "ENG-307",
+    "page": 666
+  },
+  {
+    "subject": "Classics in Drama",
+    "code": "ENG-308",
+    "page": 667
+  },
+  {
+    "subject": "19'\" Century Poetry",
+    "code": "ENG-309",
+    "page": 668
+  },
+  {
+    "subject": "Fantasy",
+    "code": "ENG-310",
+    "page": 669
+  },
+  {
+    "subject": "World Literatures in Translation",
+    "code": "ENG-311",
+    "page": 670
+  },
+  {
+    "subject": "Pragmatics",
+    "code": "ENG-317",
+    "page": 671
+  },
+  {
+    "subject": "Foundation of Linguistic Thought",
+    "code": "ENG-318",
+    "page": 672
+  },
+  {
+    "subject": "Anthropological Linguistics",
+    "code": "ENG-319",
+    "page": 673
+  },
+  {
+    "subject": "Translation Studies",
+    "code": "ENG-320",
+    "page": 674
+  },
+  {
+    "subject": "Bible for Christian / Geeta for Hindu",
+    "code": "ET-003",
+    "page": 676
+  },
+  {
+    "subject": "Oceanography",
+    "code": "GEOG-307",
+    "page": 678
+  },
+  {
+    "subject": "Research Methods",
+    "code": "GEOG-308",
+    "page": 679
+  },
+  {
+    "subject": "Population Geography",
+    "code": "GEOG-309",
+    "page": 680
+  },
+  {
+    "subject": "Fundamentals of GIS",
+    "code": "GEOG-310",
+    "page": 681
+  },
+  {
+    "subject": "Economic Geography",
+    "code": "GEOG-311",
+    "page": 682
+  },
+  {
+    "subject": "Urban Geography",
+    "code": "GEOG-312",
+    "page": 683
+  },
+  {
+    "subject": "Research Methodology-ll",
+    "code": "GS-307",
+    "page": 684
+  },
+  {
+    "subject": "Gender and Media",
+    "code": "GS-308",
+    "page": 685
+  },
+  {
+    "subject": "Gender, Peace & Security",
+    "code": "GS-309",
+    "page": 686
+  },
+  {
+    "subject": "Gender, Art & Literature",
+    "code": "GS-310",
+    "page": 687
+  },
+  {
+    "subject": "Organizational Behaviour & HRM",
+    "code": "GS-311",
+    "page": 688
+  },
+  {
+    "subject": "Family Sociology",
+    "code": "GS-312",
+    "page": 689
+  },
+  {
+    "subject": "Later Mughals and British India (1707-1857)",
+    "code": "HIS-304",
+    "page": 690
+  },
+  {
+    "subject": "History of Europe (1453-1789)",
+    "code": "HIS-305",
+    "page": 691
+  },
+  {
+    "subject": "Muslim Rule in Spain",
+    "code": "HIS-306",
+    "page": 692
+  },
+  {
+    "subject": "History of the Punjab (1707-1947)",
+    "code": "HIS-307",
+    "page": 693
+  },
+  {
+    "subject": "International Relations (1919-1989)",
+    "code": "HIS-308",
+    "page": 694
+  },
+  {
+    "subject": "Specialization in One Group of Track & Field (Elect.4)",
+    "code": "HPE-311",
+    "page": 695
+  },
+  {
+    "subject": "Research Methodology in Physical Education (Major 3)",
+    "code": "HPE-312",
+    "page": 696
+  },
+  {
+    "subject": "Planning Sports Facilities (Foundation 9)",
+    "code": "HPE-313",
+    "page": 697
+  },
+  {
+    "subject": "Test Measurement & Evaluation in Physical Education & Sports (Major 4)",
+    "code": "HPE-314",
+    "page": 698
+  },
+  {
+    "subject": "Sports Psychology (Major 5)",
+    "code": "HPE-315",
+    "page": 699
+  },
+  {
+    "subject": "Environmental Sciences (General 6)",
+    "code": "HPE-316",
+    "page": 700
+  },
+  {
+    "subject": "Translation of Holy Quran",
+    "code": "HQ-006",
+    "page": 701
+  },
+  {
+    "subject": "Tafsir-IV",
+    "code": "ISE-304",
+    "page": 703
+  },
+  {
+    "subject": "History & Principles of Hadith",
+    "code": "ISE-305",
+    "page": 704
+  },
+  {
+    "subject": "Dawa o Irshad",
+    "code": "ISE-306",
+    "page": 705
+  },
+  {
+    "subject": "Islamic Jurisprudence & its History",
+    "code": "ISE-307",
+    "page": 706
+  },
+  {
+    "subject": "Linear Algebra (MA)",
+    "code": "IT-312",
+    "page": 707
+  },
+  {
+    "subject": "Introduction to Psychology (HM)",
+    "code": "IT-313",
+    "page": 708
+  },
+  {
+    "subject": "Real Analysis-ll",
+    "code": "MATH-307",
+    "page": 709
+  },
+  {
+    "subject": "Rings and Vector Spaces",
+    "code": "MATH-308",
+    "page": 710
+  },
+  {
+    "subject": "Complex Analysis-Il",
+    "code": "MATH-309",
+    "page": 711
+  },
+  {
+    "subject": "Mechanics",
+    "code": "MATH-310",
+    "page": 712
+  },
+  {
+    "subject": "Ordinary Differential Equations",
+    "code": "MATH-312",
+    "page": 714
+  },
+  {
+    "subject": "Quantum Mechanics-ll",
+    "code": "PHY-309",
+    "page": 715
+  },
+  {
+    "subject": "Quantum Mechanics-|",
+    "code": "PHYS-3301",
+    "page": 716
+  },
+  {
+    "subject": "Solid State Physics-Il",
+    "code": "PHYS-3402",
+    "page": 717
+  },
+  {
+    "subject": "Mathematical Methods of Physics-Il Time: 3 Hrs. Marks: 60",
+    "code": "PHYS-3503",
+    "page": 718
+  },
+  {
+    "subject": "Computational Physics-Il",
+    "code": "PHYS-3504",
+    "page": 719
+  },
+  {
+    "subject": "Electronics-ll",
+    "code": "PHYS-3702",
+    "page": 720
+  },
+  {
+    "subject": "Western Political Philosophy-ll",
+    "code": "POL-306",
+    "page": 721
+  },
+  {
+    "subject": "Muslim Political Philosophy-ll",
+    "code": "POL-307",
+    "page": 722
+  },
+  {
+    "subject": "Comparative and Developmental Politics-Il",
+    "code": "POL-308",
+    "page": 723
+  },
+  {
+    "subject": "History of International Relations",
+    "code": "POL-309",
+    "page": 724
+  },
+  {
+    "subject": "Introduction to Local Government",
+    "code": "POL-310",
+    "page": 725
+  },
+  {
+    "subject": "Enterprise Systems",
+    "code": "SI-342",
+    "page": 726
+  },
+  {
+    "subject": "Research Design & Sociometry",
+    "code": "SOC-307",
+    "page": 727
+  },
+  {
+    "subject": "Introduction to Population Studies |\u00a7",
+    "code": "SOC-308",
+    "page": 728
+  },
+  {
+    "subject": "Social Statistics",
+    "code": "SOC-309",
+    "page": 729
+  },
+  {
+    "subject": "Urban Sociology",
+    "code": "SOC-310",
+    "page": 730
+  },
+  {
+    "subject": "Sociology of Law and Human Rights",
+    "code": "SOC-311",
+    "page": 731
+  },
+  {
+    "subject": "Social Development",
+    "code": "SOCW-307",
+    "page": 732
+  },
+  {
+    "subject": "Social Research Methods - Il",
+    "code": "SOCW-308",
+    "page": 733
+  },
+  {
+    "subject": "Social Management",
+    "code": "SOCW-309",
+    "page": 734
+  },
+  {
+    "subject": "Social Action",
+    "code": "SOCW-310",
+    "page": 735
+  },
+  {
+    "subject": "Social Gerontology",
+    "code": "SOCW-311",
+    "page": 736
+  },
+  {
+    "subject": "Advanced Experimental Design (Theory)",
+    "code": "STAT-310",
+    "page": 737
+  },
+  {
+    "subject": "Advanced Sampling Techniques (Theory)",
+    "code": "STAT-312",
+    "page": 738
+  },
+  {
+    "subject": "Multivariate Techniques (Theory)",
+    "code": "STAT-314",
+    "page": 739
+  },
+  {
+    "subject": "Probability Distributions (Theory)",
+    "code": "STAT-316",
+    "page": 740
+  },
+  {
+    "subject": "FORTRAN Computer Language",
+    "code": "STAT-318",
+    "page": 741
+  },
+  {
+    "subject": "Advance Computer Languages",
+    "code": "STAT-319",
+    "page": 742
+  },
+  {
+    "subject": "Principles of Management",
+    "code": "UE-272",
+    "page": 743
+  },
+  {
+    "subject": "Urdu Afsaana aur Drama: Fiqri o Funny Mutaila",
+    "code": "URDU-304",
+    "page": 744
+  },
+  {
+    "subject": "20th Saadi may Nawal ka Irtaka, aur es kay Fiqri o Funny Mubahas",
+    "code": "URDU-305",
+    "page": 745
+  },
+  {
+    "subject": "Urdu Nazam: Fiqri o Funny Mutaila",
+    "code": "URDU-306",
+    "page": 746
+  },
+  {
+    "subject": "Pakistan Main Farogh-e-Urdu kay Aham Idaray",
+    "code": "URDU-308",
+    "page": 747
+  },
+  {
+    "subject": "Research Methodology",
+    "code": "ZOOL-308",
+    "page": 748
+  },
+  {
+    "subject": "Principal of Systematics",
+    "code": "ZOOL-309",
+    "page": 749
+  },
+  {
+    "subject": "Molecular Genetics II",
+    "code": "ZOOL-310",
+    "page": 750
+  },
+  {
+    "subject": "Developmental Biology",
+    "code": "ZOOL-310A",
+    "page": 751
+  },
+  {
+    "subject": "Genetics",
+    "code": "ZOOL-311A",
+    "page": 752
+  },
+  {
+    "subject": "Analysis of Development",
+    "code": "ZOOL-312",
+    "page": 753
+  },
+  {
+    "subject": "Wildlife",
+    "code": "ZOOL-312A",
+    "page": 754
+  },
+  {
+    "subject": "Environmental Biology",
+    "code": "ZOOL-316",
+    "page": 756
+  },
+  {
+    "subject": "Animal Behavior",
+    "code": "ZOOL-318",
+    "page": 757
+  },
+  {
+    "subject": "Research Methods-Il",
+    "code": "APSY-361",
+    "page": 758
+  },
+  {
+    "subject": "Theories of Personality (Revised)",
+    "code": "APSY-363",
+    "page": 759
+  },
+  {
+    "subject": "Biological Basis of Behavior",
+    "code": "APSY-364",
+    "page": 760
+  },
+  {
+    "subject": "Social Psychology (Revised)",
+    "code": "APSY-367",
+    "page": 761
+  },
+  {
+    "subject": "Health Psychology",
+    "code": "APSY-368",
+    "page": 762
+  },
+  {
+    "subject": "Arabic-VI",
+    "code": "ARB-302",
+    "page": 763
+  },
+  {
+    "subject": "Auditing",
+    "code": "BBA-306",
+    "page": 764
+  },
+  {
+    "subject": "Taxation Management (Basic)",
+    "code": "BBA-307",
+    "page": 765
+  },
+  {
+    "subject": "Management Information System",
+    "code": "BBA-308",
+    "page": 766
+  },
+  {
+    "subject": "Development Economics",
+    "code": "BBA-309",
+    "page": 767
+  },
+  {
+    "subject": "Current Business Affairs",
+    "code": "BBA-310",
+    "page": 768
+  },
+  {
+    "subject": "Gene Cloning (Advance Course)",
+    "code": "BOT-313",
+    "page": 769
+  },
+  {
+    "subject": "Phycology and Bryology",
+    "code": "BOT-313A",
+    "page": 770
+  },
+  {
+    "subject": "Plant Tissue Culture (Advance Course)",
+    "code": "BOT-315",
+    "page": 771
+  },
+  {
+    "subject": "Anatomy of Vascular Plants",
+    "code": "BOT-315",
+    "page": 772
+  },
+  {
+    "subject": "Evolutionary Trends among Spermatophytes",
+    "code": "BOT-319A",
+    "page": 773
+  },
+  {
+    "subject": "Plant Biochemistry (Bioenergetics and Metabolism) ,",
+    "code": "BOT-321",
+    "page": 774
+  },
+  {
+    "subject": "Higher Fungi",
+    "code": "BOT-323",
+    "page": 775
+  },
+  {
+    "subject": "Classical Arabic Prose",
+    "code": "BSAR-308",
+    "page": 776
+  },
+  {
+    "subject": "Sub Editing & Page Designing (Theory & Practice)",
+    "code": "BSCS-306",
+    "page": 777
+  },
+  {
+    "subject": "UNIVERSITY OF THE PUNJAB preteeeeeeeeeeeeeeees,",
+    "code": "BSCS-308",
+    "page": 778
+  },
+  {
+    "subject": "Theories of Communication-ll",
+    "code": "BSCS-309",
+    "page": 779
+  },
+  {
+    "subject": "Introduction to Advertising & Public Relations",
+    "code": "BSCS-310",
+    "page": 780
+  },
+  {
+    "subject": "Physical Chemistry",
+    "code": "CHEM-313",
+    "page": 781
+  },
+  {
+    "subject": "Inorganic Chemistry",
+    "code": "CHEM-315",
+    "page": 782
+  },
+  {
+    "subject": "Organic Chemistry",
+    "code": "CHEM-317",
+    "page": 783
+  },
+  {
+    "subject": "Analytical Chemistry",
+    "code": "CHEM-319",
+    "page": 785
+  },
+  {
+    "subject": "Applied Chemistry",
+    "code": "CHEM-321",
+    "page": 786
+  },
+  {
+    "subject": "Financial Management (Commerce)",
+    "code": "COMM-306",
+    "page": 787
+  },
+  {
+    "subject": "Logic & Critical Thinking (Commerce)",
+    "code": "COMM-309",
+    "page": 788
+  },
+  {
+    "subject": "System and Network Administration",
+    "code": "DI-323A",
+    "page": 789
+  },
+  {
+    "subject": "Artificial Intelligence",
+    "code": "DI-326",
+    "page": 790
+  },
+  {
+    "subject": "Advanced Macroeconomics",
+    "code": "ECON-302",
+    "page": 792
+  },
+  {
+    "subject": "Monetary Economics",
+    "code": "ECON-308",
+    "page": 793
+  },
+  {
+    "subject": "Money, Banking & Financial Institutions",
+    "code": "ECON-317",
+    "page": 794
+  },
+  {
+    "subject": "Advanced Macroeconomics",
+    "code": "ECON-323",
+    "page": 795
+  },
+  {
+    "subject": "Monetary Economics",
+    "code": "ECON-324",
+    "page": 796
+  },
+  {
+    "subject": "Econometrics-ll",
+    "code": "ECON-325",
+    "page": 797
+  },
+  {
+    "subject": "Labor Economics",
+    "code": "ECON-326",
+    "page": 798
+  },
+  {
+    "subject": "Managerial Economics",
+    "code": "ECON-328",
+    "page": 799
+  },
+  {
+    "subject": "Agricultural Economics",
+    "code": "ECON-330",
+    "page": 800
+  },
+  {
+    "subject": "Environmental and Natural Resource Economics",
+    "code": "ECON-427",
+    "page": 801
+  },
+  {
+    "subject": "Urdu-lll",
+    "code": "EDE-173",
+    "page": 802
+  },
+  {
+    "subject": "Research in Education",
+    "code": "EDE-324",
+    "page": 803
+  },
+  {
+    "subject": "Methods of Teaching Social Studies in Elementary School",
+    "code": "EDE-375",
+    "page": 804
+  },
+  {
+    "subject": "Mobile Application Development",
+    "code": "EI-333",
+    "page": 805
+  },
+  {
+    "subject": "Criticism and Theory-Il",
+    "code": "ENG-307",
+    "page": 806
+  },
+  {
+    "subject": "Classics in Drama",
+    "code": "ENG-308",
+    "page": 807
+  },
+  {
+    "subject": "19'\" Century Poetry",
+    "code": "ENG-309",
+    "page": 808
+  },
+  {
+    "subject": "Fantasy",
+    "code": "ENG-310",
+    "page": 809
+  },
+  {
+    "subject": "World Literatures in Translation",
+    "code": "ENG-311",
+    "page": 810
+  },
+  {
+    "subject": "Later Mughals & British India (1707-1857)",
+    "code": "HIS-304",
+    "page": 811
+  },
+  {
+    "subject": "History of the Punjab (1707-1947)",
+    "code": "HIS-307",
+    "page": 812
+  },
+  {
+    "subject": "Specialization in One Group of Track & Field (Elect.4)",
+    "code": "HPE-311",
+    "page": 813
+  },
+  {
+    "subject": "Research Methodology in Physical Education (Major 3)",
+    "code": "HPE-312",
+    "page": 814
+  },
+  {
+    "subject": "Planning Sports Facilities (Foundation 9)",
+    "code": "HPE-313",
+    "page": 815
+  },
+  {
+    "subject": "Test Measurement & Evaluation in Physical Education & Sports (Major 4)",
+    "code": "HPE-314",
+    "page": 816
+  },
+  {
+    "subject": "Sports Psychology (Major 5)",
+    "code": "HPE-315",
+    "page": 817
+  },
+  {
+    "subject": "Environmental Sciences (General 6)",
+    "code": "HPE-316",
+    "page": 818
+  },
+  {
+    "subject": "Translation of Holy Quran",
+    "code": "HQ-006",
+    "page": 819
+  },
+  {
+    "subject": "Tafsir-IV",
+    "code": "ISE-304",
+    "page": 821
+  },
+  {
+    "subject": "History & Principles of Hadith",
+    "code": "ISE-305",
+    "page": 822
+  },
+  {
+    "subject": "Islamic Jurisprudence & its History",
+    "code": "ISE-307",
+    "page": 823
+  },
+  {
+    "subject": "Internet Programming (IT)",
+    "code": "IT-308",
+    "page": 824
+  },
+  {
+    "subject": "Computer Networks (CMP)",
+    "code": "IT-309",
+    "page": 825
+  },
+  {
+    "subject": "Linear Algebra (MA)",
+    "code": "IT-312",
+    "page": 826
+  },
+  {
+    "subject": "Introduction to Psychology (HM)",
+    "code": "IT-313",
+    "page": 827
+  },
+  {
+    "subject": "Real Analysis-ll",
+    "code": "MATH-307",
+    "page": 828
+  },
+  {
+    "subject": "Rings and Vector Spaces",
+    "code": "MATH-308",
+    "page": 829
+  },
+  {
+    "subject": "Complex Analysis-Il",
+    "code": "MATH-309",
+    "page": 830
+  },
+  {
+    "subject": "Mechanics",
+    "code": "MATH-310",
+    "page": 831
+  },
+  {
+    "subject": "Ordinary Differential Equations",
+    "code": "MATH-312",
+    "page": 833
+  },
+  {
+    "subject": "Quantum Mechanics-|",
+    "code": "PHYS-3301",
+    "page": 834
+  },
+  {
+    "subject": "Solid State Physics-ll",
+    "code": "PHYS-3402",
+    "page": 835
+  },
+  {
+    "subject": "Mathematical Methods of Physics-Il",
+    "code": "PHYS-3503",
+    "page": 836
+  },
+  {
+    "subject": "Computational Physics-Il",
+    "code": "PHYS-3504",
+    "page": 837
+  },
+  {
+    "subject": "Electronics-ll",
+    "code": "PHYS-3702",
+    "page": 838
+  },
+  {
+    "subject": "Western Political Philosophy-ll",
+    "code": "POL-306",
+    "page": 839
+  },
+  {
+    "subject": "Muslim Political Philosophy-ll",
+    "code": "POL-307",
+    "page": 840
+  },
+  {
+    "subject": "Comparative and Developmental Politics-Il",
+    "code": "POL-308",
+    "page": 841
+  },
+  {
+    "subject": "History of International Relations",
+    "code": "POL-309",
+    "page": 842
+  },
+  {
+    "subject": "Enterprise Systems",
+    "code": "SI-342",
+    "page": 843
+  },
+  {
+    "subject": "Advanced Experimental Design (Theory)",
+    "code": "STAT-310",
+    "page": 844
+  },
+  {
+    "subject": "Advanced Sampling Techniques (Theory)",
+    "code": "STAT-312",
+    "page": 845
+  },
+  {
+    "subject": "Probability Distributions (Theory)",
+    "code": "STAT-316",
+    "page": 846
+  },
+  {
+    "subject": "FORTRAN Computer Language",
+    "code": "STAT-318",
+    "page": 847
+  },
+  {
+    "subject": "Advanced Computer Languages",
+    "code": "STAT-319",
+    "page": 848
+  },
+  {
+    "subject": "Urdu Afsaana aur Drama: Fiqri o Funny Mutaila",
+    "code": "URDU-304",
+    "page": 850
+  },
+  {
+    "subject": "20th Saadi may Nawal ka Irtaka, aur es kay Fiqri o Funny Mubahas",
+    "code": "URDU-305",
+    "page": 851
+  },
+  {
+    "subject": "Urdu Nazam: Fiqri o Funny Mutaila",
+    "code": "URDU-306",
+    "page": 852
+  },
+  {
+    "subject": "Research Methodology",
+    "code": "ZOOL-308",
+    "page": 853
+  },
+  {
+    "subject": "Principles of Systematics",
+    "code": "ZOOL-309",
+    "page": 854
+  },
+  {
+    "subject": "Molecular Genetics II",
+    "code": "ZOOL-310",
+    "page": 855
+  },
+  {
+    "subject": "Developmental Biology",
+    "code": "ZOOL-310A",
+    "page": 856
+  },
+  {
+    "subject": "Genetics",
+    "code": "ZOOL-311A",
+    "page": 857
+  },
+  {
+    "subject": "Wildlife",
+    "code": "ZOOL-312A",
+    "page": 858
+  },
+  {
+    "subject": "Wildlife",
+    "code": "ZOOL-314",
+    "page": 859
+  },
+  {
+    "subject": "Environmental Biology",
+    "code": "ZOOL-316",
+    "page": 860
+  },
+  {
+    "subject": "Animal Behavior",
+    "code": "ZOOL-318",
+    "page": 861
+  }
+]

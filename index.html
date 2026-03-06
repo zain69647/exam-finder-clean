@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Exam Paper Finder</title>
+  <meta name="description" content="Search and find exam papers by subject name or course code." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <section class="search-section">
+      <h1>📄 Exam Paper Finder</h1>
+      <div class="search-wrapper" id="searchWrapper">
+        <form id="searchForm" class="search-form">
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Search by subject name or course code…"
+            autocomplete="off"
+          />
+          <button type="submit">🔍 Search</button>
+        </form>
+        <div class="suggestions" id="suggestions"></div>
+      </div>
+      <p class="hint">Type a subject or code, e.g. <strong>Psychology</strong> or <strong>BBA-410</strong></p>
+    </section>
+
+    <p id="errorMsg" class="error" hidden></p>
+    <p id="resultCount" class="result-count" hidden></p>
+    <p id="noResults" class="error" hidden>No paper found for this subject or course code.</p>
+
+    <div class="results-grid" id="resultsGrid"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,5 +1,9 @@
-const INDEX_PATH = "/data/papers_index.json";
-const PDF_PATH = "/papers/papers.pdf";
+const INDEX_PATH_CANDIDATES = [
+  "/data/papers_index.json",
+  "/public/data/papers_index.json",
+  "./data/papers_index.json",
+  "./public/data/papers_index.json",
+];
 const MAX_SUGGESTIONS = 6;
 
 const searchForm = document.getElementById("search-form");
@@ -9,6 +13,27 @@ const resultsEl = document.getElementById("results");
 const resultsCountEl = document.getElementById("results-count");
 
 let papersIndex = [];
+let indexPath = INDEX_PATH_CANDIDATES[0];
+let pdfPath = "/papers/papers.pdf";
+
+function derivePdfPathFromIndexPath(path) {
+  return path.replace("data/papers_index.json", "papers/papers.pdf");
+}
+
+async function resolveIndexPath() {
+  for (const candidate of INDEX_PATH_CANDIDATES) {
+    try {
+      const res = await fetch(candidate, { cache: "no-store" });
+      if (res.ok) {
+        indexPath = candidate;
+        pdfPath = derivePdfPathFromIndexPath(candidate);
+        return res;
+      }
+    } catch (_error) {}
+  }
+
+  throw new Error("Unable to resolve papers index path");
+}
 
 function escapeHtml(text) {
   return String(text)
@@ -120,7 +145,7 @@ function renderResults(results, query) {
 
   resultsEl.innerHTML = results
     .map((entry) => {
-      const pdfUrl = `${PDF_PATH}#page=${encodeURIComponent(entry.page)}`;
+      const pdfUrl = `${pdfPath}#page=${encodeURIComponent(entry.page)}`;
       return `
         <article class="result-card">
           <p class="subject-text">${highlight(entry.subject, cleanedQuery)}</p>
@@ -140,8 +165,7 @@ function performSearch(query) {
 
 async function loadIndex() {
   try {
-    const res = await fetch(INDEX_PATH, { cache: "no-store" });
-    if (!res.ok) throw new Error(`Failed to load index (${res.status})`);
+    const res = await resolveIndexPath();
 
     const data = await res.json();
     if (!Array.isArray(data)) throw new Error("Invalid index format");

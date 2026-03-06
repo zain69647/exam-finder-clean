@@ -1,5 +1,5 @@
-const INDEX_PATH = "./public/data/papers_index.json";
-const PDF_PATH = "./public/papers/papers.pdf";
+const INDEX_PATH = "/data/papers_index.json";
+const PDF_PATH = "/papers/papers.pdf";
 const MAX_SUGGESTIONS = 6;
 
 const searchForm = document.getElementById("search-form");
